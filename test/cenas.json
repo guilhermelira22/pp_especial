@@ -1,0 +1,19 @@
+{
+ "number_of_facilitors": 2,
+ "number_of_students": 4,
+ "number_of_partners": 16,
+ "tasks": [
+ {
+ "title": "Long list of Stakeholder ",
+ "description": "The team's initial goal is to identify up to 15 stakeholder/user groups relevant to the project topic.",
+ "start_at": 0,
+ "duration": 14
+ },
+ {
+ "title": "Short list of target groups",
+ "description": "Your team should discuss and select four target groups from the long list of previously identified stakeholder/user groups.",
+ "start_at": 0,
+ "duration": 14
+ }
+ ]
+}
